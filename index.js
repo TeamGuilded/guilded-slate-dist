@@ -1,1 +1,3 @@
-module.exports.default = require("slate");
+module.exports = {
+  Slate: require("slate")
+}
