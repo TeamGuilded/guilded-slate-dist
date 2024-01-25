@@ -1,1 +1,1 @@
-module.exports = require("slate");
+module.exports.default = require("slate");
