@@ -6,6 +6,6 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "slate": "0.103.0"
+    "slate": "0.112.0"
   }
 }
